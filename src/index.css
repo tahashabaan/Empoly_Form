@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+:root {
+  --validInput:#7e87da;
+  --inValidInput:#d32f2f;
+}
+body {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #282c34
+}
+
+
+button{
+  background-color: #1a237e;
+  color: white;
+}
+

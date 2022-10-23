@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Empoly_Form/static/css/main.61c54979.css",
+    "main.js": "/Empoly_Form/static/js/main.91589623.js",
+    "static/js/787.76e4c6c4.chunk.js": "/Empoly_Form/static/js/787.76e4c6c4.chunk.js",
+    "index.html": "/Empoly_Form/index.html",
+    "main.61c54979.css.map": "/Empoly_Form/static/css/main.61c54979.css.map",
+    "main.91589623.js.map": "/Empoly_Form/static/js/main.91589623.js.map",
+    "787.76e4c6c4.chunk.js.map": "/Empoly_Form/static/js/787.76e4c6c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c54979.css",
+    "static/js/main.91589623.js"
+  ]
+}
